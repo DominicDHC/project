@@ -1,5 +1,5 @@
 # workshop2 project
-Group 32
+Group 27
 
 Currently there will only have datasets we have used and our application result, for the code please see the zip file uploaded to iSpace.
 
